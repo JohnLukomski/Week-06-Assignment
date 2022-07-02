@@ -1,1 +1,2 @@
 # Week 06 Assignment
+This week's Assignment involves reading in bowling values of different bowlers from a file and ouputing them in an organized manor. This program will also average the scores of each bowler and output them accordingly. It uses three seperate arrays to accomplish this: an array to store the bowlers' names, an array to store their scores, and an array to store their average scores. Finally it will output all three arrays with the appropriate spacing to line up under the titles for name, scores, and average.
